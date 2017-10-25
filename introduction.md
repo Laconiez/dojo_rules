@@ -1,2 +1,6 @@
 introduction
-Ruby, JavaScript, HTML & CSS, iOS or Electives
+
+* Ruby, 
+* JavaScript, 
+* HTML & CSS, 
+* iOS or Electives
